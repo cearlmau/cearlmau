@@ -1,7 +1,5 @@
 ### Hi there 👋 
-### cearlmau here. 
-
-Casual Path of Exile enthusiast.
+### Timmy here. Programmer. Model painter. Casual Path of Exile enthusiast. 
 
 - 🌱 I’m currently learning how to play the guitar.
 - 🔭 I’m currently working on my Master's Degree.
