@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Impending Doom is a support gem, so +levels to skill gems have no impact on Doomblast's damage.
 
-- Here's a link to all my work: https://github.com/cearlmau/directory
+- Here's a link to all my work(that I remember to put on here): https://github.com/cearlmau/directory
 <!--
 **cearlmau/cearlmau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
