@@ -1,8 +1,8 @@
 ### Hi there 👋 
 ### Timmy here. Programmer. Model painter. Casual Path of Exile enthusiast. 
 
-- 🌱 I’m currently learning how to play the guitar.
-- 🔭 I’m currently working on my Master's Degree.
+- :notes: I’m currently learning how to play the guitar.
+- 🎨 I am desperately trying to clear my pile of shame.
 - 📫 How to reach me: timmy_tang@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Impending Doom is a support gem, so +levels to skill gems have no impact on Doomblast's damage.
